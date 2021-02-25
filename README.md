@@ -1,3 +1,4 @@
 # diff-practice
 Git講座、diff練習用
-staging用(1st)
+working用(2nd)
+diff 練習用
