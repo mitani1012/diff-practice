@@ -2,4 +2,4 @@
 Git講座、diff練習用
 working用(2nd)
 diff 練習用
-conflict用　main branch
+conflict用feature branch
